@@ -1,2 +1,2 @@
 # recipies4bolivia
-A healthy recipe provider for basic ingredients in response of the socio-economic situation in Bolivia. Built by a Bolivian for Bolivians. 
+Free healthy recipe app for Bolivian families — get nutritious, tasty meal ideas using whatever ingredients you have at home. Built by a Bolivian, for Bolivians.
